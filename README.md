@@ -1,5 +1,5 @@
 # nodets--canil
-Projeto feito pelo curso B7web
+Projeto feito acompanhando o curso B7web
 
 ### Pré requisitos globais:
 `npm -g nodemon typescript ts-node`
